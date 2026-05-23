@@ -1,6 +1,6 @@
 # MyDrama — AI Research Dashboard
 
-A research tool for creative producers. Enter a setting + genre/tropes → get organic content patterns, trending hooks, and AI strategy summary in seconds.
+A research tool for creative producers. Enter a setting + genre/tropes → get organic content patterns, trending hooks, and AI strategy summary in seconds. 
 
 ---
 
